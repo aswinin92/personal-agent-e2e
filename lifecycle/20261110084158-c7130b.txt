@@ -1,0 +1,4 @@
+personal-agent-e2e lifecycle test
+run: 20261110084158-c7130b
+branch: e2e/lifecycle-20261110084158-c7130b
+Created by the e2e harness. No effect on the seed project.
